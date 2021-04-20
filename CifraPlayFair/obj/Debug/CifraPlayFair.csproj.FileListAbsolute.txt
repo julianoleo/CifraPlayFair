@@ -1,0 +1,10 @@
+C:\Estudos\c#\CifraPlayFair\CifraPlayFair\bin\Debug\CifraPlayFair.exe.config
+C:\Estudos\c#\CifraPlayFair\CifraPlayFair\bin\Debug\CifraPlayFair.exe
+C:\Estudos\c#\CifraPlayFair\CifraPlayFair\bin\Debug\CifraPlayFair.pdb
+C:\Estudos\c#\CifraPlayFair\CifraPlayFair\obj\Debug\CifraPlayFair.csprojAssemblyReference.cache
+C:\Estudos\c#\CifraPlayFair\CifraPlayFair\obj\Debug\CifraPlayFair.Properties.Resources.resources
+C:\Estudos\c#\CifraPlayFair\CifraPlayFair\obj\Debug\CifraPlayFair.csproj.GenerateResource.cache
+C:\Estudos\c#\CifraPlayFair\CifraPlayFair\obj\Debug\CifraPlayFair.csproj.CoreCompileInputs.cache
+C:\Estudos\c#\CifraPlayFair\CifraPlayFair\obj\Debug\CifraPlayFair.exe
+C:\Estudos\c#\CifraPlayFair\CifraPlayFair\obj\Debug\CifraPlayFair.pdb
+C:\Estudos\c#\CifraPlayFair\CifraPlayFair\obj\Debug\CifraPlayFair.Form_CifraPlayFair.resources
